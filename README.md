@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Utkarsh Rai</h1>
+<h1 align="center">Ola!! 👋, I'm Utkarsh Rai</h1>
 <h3 align="center">CSE undergrad student @JUET exploring XR and learning new languages!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-rai22&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-rai22" /> </p>
