@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **22utkarshrai@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/kdrtztjyrrgw](https://www.overleaf.com/read/kdrtztjyrrgw)
-
 - ⚡ Fun fact **Developers in the gaming industry are the happiest**
 
 <h3 align="left">Connect with me:</h3>
